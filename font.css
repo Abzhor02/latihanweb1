@@ -1,0 +1,32 @@
+/* ini adalah font styling */
+
+/* font family mengatur jenis font */
+.font-family{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* font-size mengatur ukuran font */
+.font-size {
+    font-size: 50px;
+}
+
+/* font-weight mengatur ketebalan font */
+.font-weight {
+    font-weight:bold
+}
+
+/* font-variant */
+.font-variant {
+    font-variant: small-caps;
+}
+
+/* font style */
+.font-style {
+    font-style: italic;
+}
+
+/* line height */
+p{
+    line-height: 50px;
+}
+
