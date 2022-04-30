@@ -1,0 +1,56 @@
+/* baground */
+body{
+    background-color: lightblue;
+    background-image: url(kelapacss.png);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: top center;
+}
+.namawarna {
+    color: red;
+}
+.hexadecimal{
+    color: #34dbeb;
+}
+.rgb{
+    color:rgb(235, 52, 216)
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+.indent{
+    text-indent: 50px;
+}
+.underline{
+    text-decoration: underline;
+}
+.overline{
+    text-decoration: overline;
+}
+.linethrough{
+    text-decoration: line-through;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.letter{
+    letter-spacing: 5px;
+}
+.word{
+    word-spacing: 10px;
+}
